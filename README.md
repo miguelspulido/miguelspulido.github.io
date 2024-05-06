@@ -25,8 +25,8 @@
             <p>I'm interested in macroeconomics, particularly monetary economics, macroeconometrics, and firm dynamics.</p>
             <p>I hold an M.A. and a B.A. in Economics from Universidad del Rosario in Bogotá, Colombia.</p>
             <p>You can find my CV <a href="CV_Miguel.pdf" target="_blank" style="color: blue;">here</a>.</p>
-
         </section>
+        
         <section>
             <h2>Contact Information</h2>
             <p>University of Pittsburgh<br>Pittsburgh, PA<br>email@example.com</p>
