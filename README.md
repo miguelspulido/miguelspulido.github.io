@@ -22,7 +22,7 @@
             <h2>Welcome!</h2>
             <img src="https://github.com/miguelspulido/miguelspulido.github.io/blob/main/IMG_2501.jpeg" width="200">
             <p>I'm a first-year PhD student in Economics at the University of Pittsburgh starting Fall 2024.</p>
-            <p>I'm interested in macroeconomics, particularly monetary economics, labor, and firm dynamics. </p>
+            <p>I'm interested in macroeconomics, particularly monetary economics, macroeconometrics, and firm dynamics. </p>
         </section>
         <section>
             <h2>Contact Information</h2>
