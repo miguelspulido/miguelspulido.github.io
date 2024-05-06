@@ -21,6 +21,7 @@
     <main>
         <section>
             <h2>Welcome!</h2>
+            <img src="profile.jpg" alt="Miguel Santiago Pulido-Estupiñan" width="200">
             <p>I'm a first-year PhD student in Economics at the University of Pittsburgh starting Fall 2024.</p>
             <p>I'm interested in macroeconomics, particularly development, labor, and public economics.</p>
         </section>
