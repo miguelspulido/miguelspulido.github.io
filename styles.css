@@ -35,32 +35,32 @@ nav ul li a {
 
 .content-container {
     display: flex;
-    align-items: flex-start;  /* Align items at the top */
+    align-items: flex-start; /* Align items at the top */
     padding: 20px;
-    background-color: #ffffff;  /* White background for content to stand out */
+    background-color: #ffffff; /* White background for content to stand out */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow for depth */
 }
 
+.profile-and-contact {
+    display: flex;
+    flex-direction: column; /* Stack image and contact info vertically */
+    margin-right: 20px; /* Space between this container and the text */
+}
+
 .profile-img {
-    width: 200px;  /* Fixed width for the image */
-    height: auto;  /* Maintain aspect ratio */
-    margin-right: 20px;  /* Space between the image and the text */
+    width: 200px; /* Fixed width for the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Space between the image and the contact info */
     border-radius: 50%; /* Optional: make the image round */
 }
 
-.text-and-contact {
-    display: flex;
-    flex-direction: column;  /* Stack text and contact info vertically */
-    flex-grow: 1;  /* Allows the container to take up the remaining space */
-}
-
 .text-content {
-    text-align: left;  /* Align text to the left */
-    margin-bottom: 20px;  /* Space between text content and contact info */
+    text-align: left; /* Align text to the left */
+    flex-grow: 1; /* Allows the text area to take up the remaining space */
 }
 
 .contact-info {
-    text-align: left;  /* Align contact info to the left */
+    text-align: left; /* Align contact info to the left */
 }
 
 a, a:visited { /* Making all links vibrant */
