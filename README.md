@@ -20,9 +20,12 @@
     </header>
     <main>
         <section>
-            <img src="https://github.com/miguelspulido/miguelspulido.github.io/blob/main/IMG_2501.jpeg" width="200">
+            <img src="IMG_2501.jpeg" width="200">
             <p>I'm a first-year PhD student in Economics at the University of Pittsburgh starting Fall 2024.</p>
-            <p>I'm interested in macroeconomics, particularly monetary economics, macroeconometrics, and firm dynamics. </p>
+            <p>I'm interested in macroeconomics, particularly monetary economics, macroeconometrics, and firm dynamics.</p>
+            <p>I hold an M.A. and a B.A. in Economics from Universidad del Rosario in Bogotá, Colombia.</p>
+            <p>You can find my CV <a href="CV_Miguel.pdf" target="_blank" style="color: blue;">here</a>.</p>
+
         </section>
         <section>
             <h2>Contact Information</h2>
