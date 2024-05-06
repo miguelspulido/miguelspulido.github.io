@@ -1,53 +1,27 @@
-body {
-    font-family: 'Arial', sans-serif;
-    color: #333;
-    background-color: #f4f4f4;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background: #0056b3;
-    color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
-}
-
-header h1 {
-    margin: 0;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-nav ul li a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-main {
+.content-container {
+    display: flex;
+    align-items: flex-start;  /* Align items at the top */
     padding: 20px;
-    text-align: center;
+    background-color: #f4f4f4;  /* Optional */
 }
 
-footer {
-    text-align: center;
-    padding: 10px 20px;
-    background: #222;
-    color: #fff;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+.profile-img {
+    width: 200px;  /* Fixed width for the image */
+    height: auto;  /* Maintain aspect ratio */
+    margin-right: 20px;  /* Space between the image and the text */
 }
 
-a:hover {
-    text-decoration: underline;
+.text-and-contact {
+    display: flex;
+    flex-direction: column;  /* Stack text and contact info vertically */
+    flex-grow: 1;  /* Allows the container to take up the remaining space */
+}
+
+.text-content {
+    text-align: left;  /* Align text to the left */
+    margin-bottom: 20px;  /* Space between text content and contact info */
+}
+
+.contact-info {
+    text-align: left;  /* Align contact info to the left */
 }
