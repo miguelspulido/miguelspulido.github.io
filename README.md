@@ -29,7 +29,8 @@
         
         <section>
             <h2>Contact Information</h2>
-            <p>University of Pittsburgh<br>Pittsburgh, PA<br>email@example.com</p>
+            <p>Universidad del Rosario<br>Pittsburgh, PA<br>miguels.pulido@urosario.edu.co</p>
+            <p>University of Pittsburgh<br>Pittsburgh, PA<br>msp125@pitt.edu</p>
             <p>Connect with me on: 
                 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>, 
                 <a href="https://twitter.com/yourprofile">Twitter</a>, 
